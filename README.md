@@ -16,7 +16,7 @@ Download the repo by clicking on green button `code` > `download zip`. Then `Unz
 5. Run main.py by the following command:
  `python main.py`
 
-# Proof of working:
+# Proof and Speed of working:
 **Tested on simple sol/usdc and atlas/sol pairs:**
 ![1](https://github.com/kokiez/raydium-liquidity-remover/assets/105941365/cdc5ad00-b7e4-44bb-9543-301361ac6d8f)
 

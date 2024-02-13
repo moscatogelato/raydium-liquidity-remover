@@ -34,7 +34,9 @@ This script will allow you to remove LP within seconds rather than waiting for m
 **Tested on simple sol/usdc and atlas/sol pairs:**
 ![1](https://github.com/kokiez/raydium-liquidity-remover/assets/105941365/cdc5ad00-b7e4-44bb-9543-301361ac6d8f)
 
-
+# Kokiez API Pricing:
+  1) 10$ for 5 days 
+  2) 30$ for 30 days
 
 # Contact
 For business inquiries, please contact us at:

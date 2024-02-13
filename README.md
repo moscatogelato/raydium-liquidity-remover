@@ -18,9 +18,9 @@ This script will allow you to remove LP within seconds rather than waiting for m
  `pip install -r requirements.txt`
 
 4. Edit the config.ini...
-5. Add your `wallet private key` and `pool id` to main.py
-6. Run main.py by the following command:
+5. Run main.py by the following command:
  `python main.py`
+6. Enter your wallet private key and pool id, the program will remove max LP
 
 # Proof and Speed of working:
 **Tested on simple sol/usdc and atlas/sol pairs:**

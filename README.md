@@ -1,6 +1,13 @@
 # Raydium Liquidity Remover
 This script will allow you to remove LP within seconds rather than waiting for minutes on raydium for any token.
 
+
+# Requirements
+1. RPC Provider Http(s) URL
+2. Wallet private key
+3. Pool id
+4. Python version greater than or equal to 3.12
+
 # Getting started
 1. Clone the repo
 

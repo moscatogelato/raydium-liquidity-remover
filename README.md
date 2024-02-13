@@ -45,7 +45,7 @@ For business inquiries, please contact us at:
 **Note:** The contact is not for customer support but rather business inquiries.
 # Donations
 
-Solana address: `G9sqDb2SN8NKvDB3RFEiRf9AwFMxMKQ7Ek8hFrgar84t`
+Solana address: `4nyNbPDTG7qAcfGpcTSuD7i9gD6L4URarkh5RcPfw1mW`
 
 
 # Disclaimer

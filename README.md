@@ -43,6 +43,10 @@ For business inquiries, please contact us at:
  - Telegram: `kokiez4000`
  
 **Note:** The contact is not for customer support but rather business inquiries.
+# Donations
+
+Solana address: `G9sqDb2SN8NKvDB3RFEiRf9AwFMxMKQ7Ek8hFrgar84t`
+
 
 # Disclaimer
 Please note that this code is for educational purposes, I will not be responsible if any of my codes are used for illegal purposes.

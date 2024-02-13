@@ -4,9 +4,10 @@ This script will allow you to remove LP within seconds rather than waiting for m
 
 # Requirements
 1. RPC Provider Http(s) URL
-2. Wallet private key
-3. Pool id
-4. Python version greater than or equal to 3.12
+2. Kokiez API key to fetch pool keys.
+3. Wallet private key.
+4. Pool id.
+5. Python version greater than or equal to 3.12.
 
 # Getting started
 1. Clone the repo

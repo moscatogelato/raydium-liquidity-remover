@@ -28,7 +28,7 @@ This script will allow you to remove LP within seconds rather than waiting for m
 4. Edit the config.ini...
 5. Run main.py by the following command:
  `python main.py`
-6. Enter your wallet private key and pool id, the program will remove max LP
+6. Enter your wallet private key and pool id, the program will remove total LP
 
 # Proof and Speed of working:
 **Tested on simple sol/usdc and atlas/sol pairs:**

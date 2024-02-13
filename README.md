@@ -50,7 +50,7 @@ Please note that this code is for educational purposes, I will not be responsibl
 
 # FAQ
 1. I received an error stating module "blabla" not found. Simply copy the error to bing chat and say how to fix this error.
-2. The program gave me an error saying market program id mismatch at the time of sending txn. Solution: goto utils>constants and read what is written there about a SERUM_PROGRAM_ID.
+2. The program gave me an error saying market program id mismatch at the time of sending txn. Solution: goto `utils` > `constants` and read what is written there about a [**SERUM_PROGRAM_ID**](https://github.com/kokiez/raydium-liquidity-remover/blob/main/utils/constants.py#L19).
 
 # References
 

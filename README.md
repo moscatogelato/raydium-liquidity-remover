@@ -3,13 +3,13 @@ This script will allow you to remove LP within seconds rather than waiting for m
 
 # Getting started
 1. Clone the repo
-    `git clone https://github.com/kokiez/raydium-liquidity-remover`
+
+   `git clone https://github.com/kokiez/raydium-liquidity-remover
+   cd raydium-liquidity-remover`
    
-    `cd raydium-liquidity-remover`
+   OR
    
-            OR
-   
-Download the repo by clicking on green button `code` > `download zip`. Then `Unzip`/`Extract` it.
+    Download the repo by clicking on green button `code` > `download zip`. Then `Unzip`/`Extract` it.
 
 3. Install Requirements
  `pip install -r requirements.txt`

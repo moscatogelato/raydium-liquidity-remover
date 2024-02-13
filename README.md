@@ -4,9 +4,11 @@ This script will allow you to remove LP within seconds rather than waiting for m
 # Getting started
 1. Clone the repo
 
-   `git clone https://github.com/kokiez/raydium-liquidity-remover
+   `
+   git clone https://github.com/kokiez/raydium-liquidity-remover
    
-   cd raydium-liquidity-remover`
+   cd raydium-liquidity-remover
+   `
    
   **OR**
    

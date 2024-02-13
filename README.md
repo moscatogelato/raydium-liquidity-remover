@@ -10,9 +10,9 @@ This script will allow you to remove LP within seconds rather than waiting for m
    cd raydium-liquidity-remover
    ```
    
-  ### OR
+      ### OR
    
-Download the repo by clicking on green button `code` > `download zip`. Then `Unzip`/`Extract` it.
+   Download the repo by clicking on green button `code` > `download zip`. Then `Unzip`/`Extract` it.
 
 3. Install Requirements
  `pip install -r requirements.txt`

@@ -47,6 +47,11 @@ For business inquiries, please contact us at:
 # Disclaimer
 Please note that this code is for educational purposes, I will not be responsible if any of my codes are used for illegal purposes.
 
+
+# FAQ
+1. I received an error stating module "blabla" not found. Simply copy the error to bing chat and say how to fix this error.
+2. The program gave me an error saying market program id mismatch at the time of sending txn. Solution: goto utils>constants and read what is written there about a SERUM_PROGRAM_ID.
+
 # References
 
 1. https://github.com/raydium-io/raydium-sdk

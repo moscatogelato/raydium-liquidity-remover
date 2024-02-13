@@ -46,3 +46,12 @@ For business inquiries, please contact us at:
 
 # Disclaimer
 Please note that this code is for educational purposes, I will not be responsible if any of my codes are used for illegal purposes.
+
+# References
+
+1. https://github.com/raydium-io/raydium-sdk
+2. https://github.com/raydium-io/raydium-frontend
+3. https://michaelhly.com/solana-py/
+4. https://kevinheavey.github.io/solders/index.html
+
+
